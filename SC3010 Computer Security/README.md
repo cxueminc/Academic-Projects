@@ -1,4 +1,6 @@
-# Mirai Botnet & Emotet Trojan Analysis
+# SC3010 Computer Security Project
+
+## Group Project: Mirai Botnet & Emotet Trojan Analysis
 
 - Researched the attack lifecycle of Mirai (IoT botnet) and Emotet (banking Trojan), including infection, command-and-control, and impact
 - Conducted network simulation and source code analysis to demonstrate vulnerabilities such as weak credentials and malicious macros
